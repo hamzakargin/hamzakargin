@@ -1,6 +1,6 @@
 ## Hi there 👋 , My name is Hamza Kargin
 
-✨**`FrontEnd Developer (Angular)`**✨
+✨ **`FrontEnd Developer (Angular)`** ✨
 #
 I am a web developer, primarily focusing on frontend development with Angular. I enjoy creating user-friendly and modern interfaces. On the backend, I build robust applications using Node.js with Express.js and Nest.js frameworks. My passion for TypeScript and Angular helps me maintain high quality and efficiency in my projects.In the projects I develop, I always strive to follow best practices and learn new technologies. My goal is to continually grow and provide more effective and innovative solutions. If you want to know more about web development, feel free to check out my projects!
 
