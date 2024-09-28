@@ -15,6 +15,8 @@ I am a web developer, primarily focusing on frontend development with Angular. I
 <img align="left" alt="Node.Js" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" alt="NestJS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> 
+<img align="left" alt="Mongoose" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+<img align="left" alt="Mongoose" width="50px" style="padding-right:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
