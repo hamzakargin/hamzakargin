@@ -5,9 +5,10 @@ I'm a full-stack developer with 3 years of experience — mostly focused on fron
 🛠 **Tech I work with:**  
 React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Express, NestJS), PostgreSQL, MongoDB, TailwindCSS, Docker & Docker Compose
 
-🧠 Focused on mastering JavaScript — from core mechanics to large-scale architecture
-⏱️ Deepening understanding of async flows, runtime behavior, and performance trade-offs
-🧩 Writing code that holds up under pressure — modular, testable, and deployment-ready
+
+🧠 **Focused on mastering JavaScript** — from core mechanics to large-scale architecture  
+⚙️ **Deepening understanding of async flows, runtime behavior, and performance trade-offs**  
+🧩 **Writing code that holds up under pressure** — modular, testable, and deployment-ready
 
 Feel free to check out my pinned projects below ⬇️
 
