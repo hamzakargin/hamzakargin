@@ -1,4 +1,7 @@
-### Hi, I'm Hamza 👋
+<h2 href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63E6BE&random=false&width=435&lines=Hi%2C+I'm+Hamza!" alt="Typing SVG" />
+</h2>
+
 
 I'm a full-stack developer with 3 years of experience — mostly focused on frontend and the JavaScript/TypeScript ecosystem.
 
