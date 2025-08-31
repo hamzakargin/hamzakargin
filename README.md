@@ -6,7 +6,7 @@
 I'm a full-stack developer with 3 years of experience — mostly focused on frontend and the JavaScript/TypeScript ecosystem.
 
 🛠 **Tech I work with:**  
-React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Express, NestJS), PostgreSQL, MongoDB, TailwindCSS, Docker & Docker Compose
+React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Express, NestJS), PostgreSQL, MongoDB, TailwindCSS, Docker & Kubernetes
 
 
 🧠 **Focused on mastering JavaScript** — from core mechanics to large-scale architecture  
