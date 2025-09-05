@@ -15,8 +15,6 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
   <img src="/lookUp.svg" alt="lookup" />
 </p>
 
-### 🧰 Languages and Tools
-
 <img align="left" alt="TypeScript" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Angular" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
