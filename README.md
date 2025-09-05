@@ -12,7 +12,7 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
 🧠 **Focused on mastering JavaScript** — from core mechanics to large-scale architecture  
 
 <p align="center">
-  <img src="/lookup.svg" alt="lookup" />
+  <img src="/lookUp.svg" alt="lookup" />
 </p>
 
 ### 🧰 Languages and Tools
