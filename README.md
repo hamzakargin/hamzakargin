@@ -10,12 +10,10 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
 
 
 🧠 **Focused on mastering JavaScript** — from core mechanics to large-scale architecture  
-⚙️ **Deepening understanding of async flows, runtime behavior, and performance trade-offs**  
-🧩 **Writing code that holds up under pressure** — modular, testable, and deployment-ready
 
-Feel free to check out my pinned projects below ⬇️
-
----
+<p align="center">
+  <img src="/lookup.svg" alt="lookup" />
+</p>
 
 ### 🧰 Languages and Tools
 
