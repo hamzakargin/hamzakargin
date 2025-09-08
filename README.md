@@ -21,6 +21,7 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
 <img align="left" alt="React" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Node.js" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Electron" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 
 
 
@@ -34,12 +35,14 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
 
 
 <img align="left" alt="Ngrx" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" />
+<img align="left" alt="RxJS" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
 <img align="left" alt="Redux" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" alt="Zustand" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" />
 <img align="left" alt="CSS" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="TailwindCSS" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Jest" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Docker" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
+<img align="left" alt="Kubernetes" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
 
 <img align="left" alt="Linux" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
