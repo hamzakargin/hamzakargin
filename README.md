@@ -34,9 +34,6 @@ I'm a full-stack developer with 3 years of experience — mostly focused on fron
 <img align="left" alt="Jest" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Docker" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-<p align="center">
-  <img src="/lookUp.svg" alt="lookup" />
-</p>
 <img align="left" alt="Kubernetes" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
 
@@ -44,3 +41,7 @@ I'm a full-stack developer with 3 years of experience — mostly focused on fron
 <img align="left" alt="Bash" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 <br clear="both" />
+
+<p align="center">
+  <img src="/lookUp.svg" alt="lookup" />
+</p>
