@@ -5,15 +5,6 @@
 
 I'm a full-stack developer with 3 years of experience — mostly focused on frontend and the JavaScript/TypeScript ecosystem.
 
-🛠 **Tech I work with:**  
-React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Express, NestJS), PostgreSQL, MongoDB, TailwindCSS, Docker & Kubernetes
-
-
-🧠 **Focused on mastering JavaScript** — from core mechanics to large-scale architecture  
-
-<p align="center">
-  <img src="/lookUp.svg" alt="lookup" />
-</p>
 
 <img align="left" alt="TypeScript" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -42,6 +33,10 @@ React (incl. Next.js), Angular, Redux, Zustand, Ngrx, TypeScript, Node.js (Expre
 <img align="left" alt="TailwindCSS" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Jest" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Docker" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<p align="center">
+  <img src="/lookUp.svg" alt="lookup" />
+</p>
 <img align="left" alt="Kubernetes" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
 
