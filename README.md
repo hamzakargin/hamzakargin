@@ -3,7 +3,7 @@
     <img 
       src="https://github.com/user-attachments/assets/594f9922-4b96-4272-b98a-515efcbac760"
       alt="Daftpunktocat-Guy"
-      width="300"
+      width="200"
     />
   </a>
 </div>
